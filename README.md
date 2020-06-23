@@ -1,1 +1,0 @@
-This is jhanvi's first git project!
